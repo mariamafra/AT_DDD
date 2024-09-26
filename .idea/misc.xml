@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/PetFriends_Pedidos/pom.xml" />
         <option value="$PROJECT_DIR$/PetFriends_Almoxarifado/pom.xml" />
+        <option value="$PROJECT_DIR$/PetFriends_Transporte/PetFriends_Transporte/pom.xml" />
+        <option value="$PROJECT_DIR$/PetFriends_Transporte/pom.xml" />
       </list>
     </option>
   </component>
